@@ -1,3 +1,3 @@
 # readings
 
-## weekn one
+## week one
