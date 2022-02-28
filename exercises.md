@@ -5,3 +5,9 @@
 - [x] Create a Github account
 - [x] Do the Github 'Hello Word'
 - [x] Add a respository for the folio
+
+### Questions
+
+### What tools (or tecniques) do you use to write?
+
+- 
