@@ -13,11 +13,12 @@
 
 • 'Scholarly fields make sharp distinctions about what is and isn’t within field parameters; doing so is one way to measure how a field evolves. The question “what is e-lit” is at the heart of field scholarship because one field expectation is that a consistent definition should regularize scientific outputs across cultures'
 
-Florian Cramer in “Post-Digital Writing" suggests ELO's definition of 'E-lit' is restrictive because it favours
+Florian Cramer in “Post-Digital Writing" suggests ELO's definition of E-lit is restrictive because it favours
 1) works where author attribution is discernable
 2) fiction (and poetry) stand in for literature as a whole 
 3) peer review validates publication stand for literature as a whole
-Leonardo Flores argues conception/intention is no prerequisite for 'E-lit'; can be 'E-lit' without authorship
+Leonardo Flores argues conception/intention is no prerequisite for E-lit; can be E-lit without authorship
+
 •	E-lit, which started as an avante garde coterie has become a scholarly field
 • Theory cannot ignore avante garde origins and origins in print
 • Argues 'fellowships' etc. don't address structure inequality or issues pertaining to intituional bias, but ‘Symbolic work is followed up with structural change’
