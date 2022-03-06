@@ -20,13 +20,45 @@ Florian Cramer in “Post-Digital Writing" suggests ELO's definition of E-lit is
 Leonardo Flores argues conception/intention is no prerequisite for E-lit; can be E-lit without authorship
 
 •	E-lit, which started as an avante garde coterie has become a scholarly field
+
 • Theory cannot ignore avante garde origins and origins in print
+
 • Argues 'fellowships' etc. don't address structure inequality or issues pertaining to intituional bias, but ‘Symbolic work is followed up with structural change’
 
 ### Electronic Literature: What is it? - N. Katherine Hayles
 
+• 'Electronic literature, generally considered to exclude print literature that has been digitized, is by contrast "digital born," a first-generation digital object created on a computer and (usually) meant to be read on a computer'
+
+• Electronic Literature Organisation defines digital literature as 'work with an important literary aspect that takes advantage of the capabilities and contexts provided by the stand-alone or networked computer. This definition raises questions about capabilities and contexts. 
+
+• Readers traditionally approach digital literature with expectations formed from print literary modes
+
+• E-lit rapidly expanding, responding to tech advancements, cultural contexts, 'powerhouses of contemporary culture' eg. film, video games etc. 
+
+• Digital literature hugely diverse and demarcations between forms, including print and digital, are often blurry or complex. Ditigal captures all print forms and more. 
+
+• I'd appreciate a more definitive definition of 'Z-axis' (further research)
+
+• Interactive narratives present problems in terms of mantaining Aristotelian narrative structure as reader becomes agent: "Giving the audience access to the raw materials of creation runs the risk of undermining the narrative experience'
+
+• E-lit modes include Hypertext fiction, network fiction, interactive fiction, locative narratives, installation pieces, "codework," generative art and the Flash poem – but are by no means an exhaustive inventory 
+
 ### Chapter 1. The Origins of Electronic Literature: An Overview - Giovanna di Rosario, Nohelia Meza and Kerri Grimaldi
 
+• Argue E-lit saw origin at advent of computers with various definitions as a 'new area of study'
 
+• Scott Rettberg’s definition, “electronic literature is most simply described as new forms and genres of writing that explore the specific capabilities of the computer and network – literature that would not be possible without the contemporary digital context”
 
+• “Stochastic Texts” (1959) by Theo Lutz — considered first Digital text. However, contradicted by 1952 work of Christopher S. Strachey, a pioneer in computing 
 
+• 'Lutz was just the first of a group of scholars to view mathematics, science, and creativity as cooperative disciplines'
+
+• During 1980s poets increasingly engaged the digital, presenting work on screen etc.  
+
+• Advent all over the world under different cultural contexts and modalities
+
+• 'Animated poems long pre-dated a style of electronic poetic practice that erupted with the advent of the World Wide Web, typified by works such as Brian Kim Stefans’ The Dreamlife of Letters (2000).'
+
+• Some countries developed interests and movements in electronic poetry simultaneously — similar cultural contexts and backgrounds
+
+• 'It seems to us that digital literature is globally and constantly growing, and it has been transforming itself thanks to or because of the advent of other new interfaces, supports, and media.'
