@@ -43,7 +43,7 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 
 - Not restricted by page margins
 
-#### what are some of the qualities of electronic literature? 
+#### What are some of the qualities of electronic literature? 
 
 - Electronic literature is 'born of the digital age', utilising digital technologies and (typically) exists online. 
 
@@ -80,7 +80,7 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 
 [Tournedo Gorge] (https://nickm.com/taroko_gorge/tournedo_gorge/)
 
-#### what aspects of the remix are the same? 
+#### What aspects of the remix are the same? 
 
 - The text still unfurls at the same pace
 
@@ -92,7 +92,7 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 
 - stanza breaks remain similar
 
-#### what aspects of the remix are different
+#### What aspects of the remix are different
 
 - The source text has been changed
 
@@ -103,6 +103,6 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 - The poem is still in bright colours, but is now pink and black
 
 
-#### is the remix successful (why or why not)?  
+#### Is the remix successful (why or why not)?  
 
 The remix successful transitions from mimicking the natural movement of the river, which in turn reflects the clycical, and somewhat frustrating, drudgery of domesticity. The landguage too evokes this domesticity with a certain level of introduced playfulness in lines such as 'recipes want to'. Too, the work makes subtle references to its origins through expressions like 'pasture', linking the domestic to the outside. There may be some unintended errors in the code e.g. 'Javascript' and 'Operator'—untintended meanings may detract from the poem. The text can be quite difficult to read at times. 
