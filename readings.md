@@ -62,3 +62,28 @@ Leonardo Flores argues conception/intention is no prerequisite for E-lit; can be
 • Some countries developed interests and movements in electronic poetry simultaneously — similar cultural contexts and backgrounds
 
 • 'It seems to us that digital literature is globally and constantly growing, and it has been transforming itself thanks to or because of the advent of other new interfaces, supports, and media.'
+
+
+## Week 2
+
+### Enlightening Interactive Fiction: Andrew Plotkin’s Shade - Jeremy Douglass
+
+- "Interactive fiction is a story in which YOU are the main character."
+
+- Interactive Fiction overhwleming written in 2nd person, utilising directives/emphatic statements (90% of games). T
+
+-  2nd person was popularised/marketed by Infocom despite being from IF's first days, and through its period as Tolkien art. 
+ 
+- Shade is playfully self-referential, and referential to art practice, situated the action in the boundaries of the 'office-space' or 'apartment'. 'Apartment pieces' usually refer to work from authors new to a medium who begin with a 'detailed' model of everything around them' 
+
+- 'Shade' subverts 'apartment pieces' which often lack action and conflict by weaving a non-linear and dual narrative. In this way it rejects and reimagines tropes and is an observation on the boundlessness of our imagination and the boundless lands of digital creation
+
+- An essential aspect of IF (Interactive Fiction) is light and its manipulation
+
+- ‘Like game books and RPGs, IF was arguably predated by simulation methods that emphasized fact over fantasy and system over story’!
+
+- IF works beyond simulation, occuring as if from the player's viewerpoint, addressing the player directly in the simulation ('you'). 'Second-person narration ("You are") evokes first-person participation ("I am!").' Second person text is the most immediate, as the 'you' (or 'I') is removed.
+
+
+
+
