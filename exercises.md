@@ -1,6 +1,6 @@
 # Exercises
 
-# Week 1
+## Week 1
 
 - [x] Create a Github account
 - [x] Do the Github 'Hello Word'
@@ -27,7 +27,7 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 
 ## Week 2
 
-### How is elctronic literature different from print literature?
+#### How is elctronic literature different from print literature?
 
 - Electronic literature, as opposed to print literature, often isn't static; it involves some form of interactivity, play 
  
@@ -43,7 +43,7 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 
 - Not restricted by page margins
 
-### what are some of the qualities of electronic literature? 
+#### what are some of the qualities of electronic literature? 
 
 - Electronic literature is 'born of the digital age', utilising digital technologies and (typically) exists online. 
 
@@ -53,12 +53,24 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 
 - Work with an important literary aspect that takes advantage of the capabilities and contexts provided by the stand-alone or networked computer.
 
-- Typically far more accessible as a form
+- Typically far more accessible as a form, but presents a new range of socio-political
 
 - Often involves non-static elements
+
+- Work doesn't necessarily need intent, and can be created without a 'human author'
 
 - Often blurs the boundaries between 'art' and 'literature'
 
 - There's a technical 'gatekeeper'
 
 - As Electronic Literature is so broad it's difficult to define
+
+- Utilises 2nd person more frequently than print 
+
+- Sometimes there's a frustrating feeling that the work can be limitless or infinite
+
+- Can have audio/visual/text aspects
+
+- Non-linear, multiple reads
+
+- There's an expectation that you 'learn' to read the work
