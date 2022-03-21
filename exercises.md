@@ -112,3 +112,7 @@ The remix successful transitions from mimicking the natural movement of the rive
 ### We Walk to You Remix
 
 [I love cake always](https://meowing-fluoridated-count.glitch.me)
+
+#### Reflection on the making poem
+
+The poem I've created almost ceases to be a poem, in part due to the speed it's displayed. I went for a hideous aesthetic.  
