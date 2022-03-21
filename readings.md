@@ -85,5 +85,41 @@ Leonardo Flores argues conception/intention is no prerequisite for E-lit; can be
 - IF works beyond simulation, occuring as if from the player's viewerpoint, addressing the player directly in the simulation ('you'). 'Second-person narration ("You are") evokes first-person participation ("I am!").' Second person text is the most immediate, as the 'you' (or 'I') is removed.
 
 
+## Week 3
+
+### Beyond Txonomy: Digital poetics and the problem of reading - Talon Memmot
+
+• ‘The actualities of poetic practice in the digital environment are too diverse to permit a comprehensive or coherent taxonomy.’ (pg. 293)
+
+• Some digital narratives and digital poetry has not author or authorial text
+
+• 'Because digital poetry cannot be reduced to a genre of poetry we must begin to consider the applied poetics of the individual practitioner.’ (294)
+
+• ‘The user is engaged on the level of consumption rather than participation' (296) - not all digital work requires interaction, decision making etc.
+
+• ‘The ability to cause thinking is an essential part of digital poetics and rhetoric, and it is here that literacy hypermedia finds its greatest potential. (pg. 303)
+
+
+### Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier - Lori Emerson
+
+• ‘we cannot crave what is ubiquitous’ (pg. 1)
+
+• how user-interfaces are becoming invisible in their commonplace use in 'third-wave computing' — turning us into consumers rather than producers
+
+•‘unless we pause from time to time to consider how these metaphors work to create boundaries… they will control us without our knowledge (pg. 3, Robert Swigart) – ‘interface now obscures software’ 
+
+• We have limited tools now – rather we have 'choices' (pg. 3) meaning things will just 'happen'.
+
+• User interface art has become marginilised as interfaces become invisible (pg. 4)
+
+• 'Natural' or 'minimalist' apart of a movement of invisibility, yet these are 'intermixed' in cultural expectations/norms (pg. 5 and 8)
+
+• 'The future of computing is domineering, branded and boring' (pg. 9)
+
+•
+
+
+
+
 
 
