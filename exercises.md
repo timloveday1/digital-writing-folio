@@ -106,3 +106,9 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 #### Is the remix successful (why or why not)?  
 
 The remix successful transitions from mimicking the natural movement of the river, which in turn reflects the clycical, and somewhat frustrating, drudgery of domesticity. The landguage too evokes this domesticity with a certain level of introduced playfulness in lines such as 'recipes want to'. Too, the work makes subtle references to its origins through expressions like 'pasture', linking the domestic to the outside. There may be some unintended errors in the code e.g. 'Javascript' and 'Operator'—untintended meanings may detract from the poem. The text can be quite difficult to read at times. 
+
+## Week 4
+
+### We Walk to You Remix
+
+[I loveday cake always](https://meowing-fluoridated-count.glitch.me)
