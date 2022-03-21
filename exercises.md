@@ -111,4 +111,4 @@ The remix successful transitions from mimicking the natural movement of the rive
 
 ### We Walk to You Remix
 
-[I loveday cake always](https://meowing-fluoridated-count.glitch.me)
+[I love cake always](https://meowing-fluoridated-count.glitch.me)
