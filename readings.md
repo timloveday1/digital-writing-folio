@@ -102,11 +102,11 @@ Leonardo Flores argues conception/intention is no prerequisite for E-lit; can be
 
 ### Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier - Lori Emerson
 
-• ‘we cannot crave what is ubiquitous’ (pg. 1)
+• ‘We cannot crave what is ubiquitous’ (pg. 1)
 
-• how user-interfaces are becoming invisible in their commonplace use in 'third-wave computing' — turning us into consumers rather than producers
+• How user-interfaces are becoming invisible in their commonplace use in 'third-wave computing' — turning us into consumers rather than producers
 
-•‘unless we pause from time to time to consider how these metaphors work to create boundaries… they will control us without our knowledge (pg. 3, Robert Swigart) – ‘interface now obscures software’ 
+•‘Unless we pause from time to time to consider how these metaphors work to create boundaries… they will control us without our knowledge (pg. 3, Robert Swigart) – ‘interface now obscures software’ 
 
 • We have limited tools now – rather we have 'choices' (pg. 3) meaning things will just 'happen'.
 
@@ -115,11 +115,4 @@ Leonardo Flores argues conception/intention is no prerequisite for E-lit; can be
 • 'Natural' or 'minimalist' apart of a movement of invisibility, yet these are 'intermixed' in cultural expectations/norms (pg. 5 and 8)
 
 • 'The future of computing is domineering, branded and boring' (pg. 9)
-
-•
-
-
-
-
-
 
