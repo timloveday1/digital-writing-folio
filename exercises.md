@@ -78,7 +78,7 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 
 ### Taroko Gorge(s) Remixes
 
-[Tournedo Gorge] (https://nickm.com/taroko_gorge/tournedo_gorge/)
+[Tournedo Gorge](https://nickm.com/taroko_gorge/tournedo_gorge/)
 
 #### What aspects of the remix are the same? 
 
@@ -120,3 +120,5 @@ The poem I've created almost ceases to be a poem, in part due to the speed it's 
 ## Week 5
 
 [mansion of cats](https://glowing-tarsier-4c3b46.netlify.app)
+
+[mansion of cats](https://github.com/timloveday1/mansion-of-cats)
