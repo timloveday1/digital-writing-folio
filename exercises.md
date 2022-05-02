@@ -15,7 +15,7 @@
 
 I write across forms. At the moment I preominantly write long form nonfiction prose poetry (verse memoir), poetry, OP non-fiction, and literary fiction. 
 
-#### What tools (or tecniques) do you use to write?
+#### What tools (or techniques) do you use to write?
 
 I use word, a mac, notes, voice memos, diaries/notebooks, google docs/squarespace and grammarly, photos/videos. storyboard. For longform work, and particularly when structuring, I use scrivner. I use pdf reader when editing visual work with inset text. I tend to create multiple files with an initial and number system, and refer to multiple documents at once; this means that there are usually several word documents open at once. I occassionally email notes to myself and sometimes texts. 
 
