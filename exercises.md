@@ -141,5 +141,5 @@ The poem I've created almost ceases to be a poem, in part due to the speed it's 
 
 ### Added background image to 'Mansion of cats' in twine
 
-[Mansion of cats] (https://glowing-tarsier-4c3b46.netlify.app/)
+[Mansion of cats](https://glowing-tarsier-4c3b46.netlify.app/)
 
