@@ -129,7 +129,23 @@ The poem I've created almost ceases to be a poem, in part due to the speed it's 
 
 [Tim Loveday example website](https://timloveday1.github.io/)
 
+## Week 6
 
+### Adding styles to Twine
+[Mansion of cats](https://glowing-tarsier-4c3b46.netlify.app/)
+
+### Adding a linked image to Twine
+[Mansion of cats](https://glowing-tarsier-4c3b46.netlify.app/)
+
+### Create an Inform 7 story and publish to Netlify
+[Inform 7](https://sunny-paprenjak-3b1c5f.netlify.app/)
+
+### Create a Bitly game
+[Ants in your pants](https://exquisite-hotteok-5405d4.netlify.app/)
+
+## Week 7
+## Week 8
+ 
 ## Week 9
 
 ### Adding audio to 'Mansion of cats' in twine
