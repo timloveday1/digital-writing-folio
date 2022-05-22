@@ -144,13 +144,19 @@ The poem I've created almost ceases to be a poem, in part due to the speed it's 
 [Ants in your pants](https://exquisite-hotteok-5405d4.netlify.app/)
 
 ## Week 7
+...
+
 ## Week 8
+...
  
 ## Week 9
 
 ### Adding audio to 'Mansion of cats' in twine
 
 [Mansion of cats](https://github.com/timloveday1/mansion-of-cats)
+
+### Audio example with howler.js
+[Howler JS example](https://chocolate-round-lift.glitch.me)
 
 
 ## Week 10
