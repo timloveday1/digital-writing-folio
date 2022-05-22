@@ -1,2 +1,2 @@
-[Static mock-up] (lines-static-mock-up.md)
+![Static mock-up](lines-mock-up.png)
 
