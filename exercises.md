@@ -105,7 +105,13 @@ Implementing time parameters helps me mitigate issues with focus related to ADHD
 
 #### Is the remix successful (why or why not)?  
 
-The remix successful transitions from mimicking the natural movement of the river, which in turn reflects the clycical, and somewhat frustrating, drudgery of domesticity. The landguage too evokes this domesticity with a certain level of introduced playfulness in lines such as 'recipes want to'. Too, the work makes subtle references to its origins through expressions like 'pasture', linking the domestic to the outside. There may be some unintended errors in the code e.g. 'Javascript' and 'Operator'—untintended meanings may detract from the poem. The text can be quite difficult to read at times. 
+The remix successfully transitions from mimicking the natural movement of the river to the 'tick tick tick' drudgery of domesticity.  The language too evokes this domesticity with a certain level of introduced playfulness in lines such as 'recipes want to'.  The work makes subtle references to its origins through expressions like 'pasture', linking the domestic to the outside/natural world. There may be some unintended errors in the code — e.g. 'Javascript' and 'Operator' — with untintended meanings which may detract from the poem. Overall, the text can be quite difficult to read at times. 
+
+#### Overall Reflection 
+
+Stylistically and aesthetically 'Taroko Gorge' appeals to me and may serve as a major influence on my final work. I'm particularly inspired by  
+
+
 
 ## Week 4
 
@@ -113,7 +119,7 @@ The remix successful transitions from mimicking the natural movement of the rive
 
 [I love cake always](https://meowing-fluoridated-count.glitch.me)
 
-#### Reflection on the making poem
+#### Reflection on making poem
 
 The poem I've created almost ceases to be a poem, in part due to the speed it's displayed. I went for a hideous aesthetic, which makes it feel more like tech art, or a hybrid. I feel this gave me a good basis for understanding and adpating code, and the design elements are becoming clearer to me. I do not feel, however, this form will influence my final work. 
 
