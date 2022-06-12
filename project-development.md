@@ -1,5 +1,7 @@
 
-# Initial thoughts/ideas
+# Outline of project develop 
+
+## Initial thoughts/ideas
 
 While my research presentation was centred on Cecil Richards, who predominantly produces work using Bitsy, I feel like I want to develop a major project that helps me to practice my coding skills. Richards' work, perhaps then, inspires me in terms of its dealings with a fraught sense of nostalgia for a childhood and innocence lost in a time of rapidly shifting socio-cultural and political worldviews. 
 
@@ -60,9 +62,18 @@ Lauren's work is refreshingly inventive; what a brilliant idea to subvert our ex
 
 Many styalistic and conceptual ideas raised during pitches (as well as the earlier practictioner presentations) made me think more broadly about digital literature, and what can be done. This seems, in so many ways, a space that can challenge language itself——and how we might create meaning on a fundamental level. When works are interactive yet narrative-based, who is the artist/writer? What differentiates art from poetry, and can a work be both installation and literature? 
 
-I was particularly impressed by the overall ingenuity of my classmates. They're all really commited to experimenting in this space. For those choosing more 'narrative routes' (many working with Twine), I'm slightly concerned about the scope of their projects——which I raised, along-side Ben, during class. It is nice, however, to see the coalescing of genres, forms, ideas. It also seems that amny students, I supposed unsurpringly, are keen to tackle big issues, such as race, colonisation and gender discourse.
+I was particularly impressed by the overall ingenuity of my classmates. They're all really commited to experimenting in this space. For those choosing more 'narrative routes' (many working with Twine), I'm slightly concerned about the scope of their projects——which I raised, along-side Ben, during class. It is nice, however, to see the coalescing of genres, forms, ideas. It also seems that many students, unsurpringly, are keen to tackle big issues, such as race, colonisation and gender discourse.
 
-# Outline of develop processes
+## Outline of develop processes
+
+### mock-up of entry button
+
+(insert images/notes)
+
+### notes on processes
+
+#### Reflection on challenges
+
 
 
 
