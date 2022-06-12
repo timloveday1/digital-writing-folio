@@ -14,6 +14,11 @@ I already have a few works in mind that with some modification might be ideal fo
 
 ## Initial project sketches
 
+
+## Intial mock-up for presentation
+
+- lines-mock-up.png
+
 # Critical feedback from workshopping
 
 Ben raised some concerns about the scope of my project. Questions include: 
