@@ -60,7 +60,11 @@ Lauren's work is refreshingly inventive; what a brilliant idea to subvert our ex
 
 Many styalistic and conceptual ideas raised during pitches (as well as the earlier practictioner presentations) made me think more broadly about digital literature, and what can be done. This seems, in so many ways, a space that can challenge language itself——and how we might create meaning on a fundamental level. When works are interactive yet narrative-based, who is the artist/writer? What differentiates art from poetry, and can a work be both installation and literature? 
 
-I was particularly impressed by the overall ingenuity of my classmates. They're all really commited to experimenting in this space. For those choosing more 'narrative routes' (many working with Twine), I'm slightly concerned about the scope of their projects——which I raised, along-side Ben, during class. It is nice, however, to see the coalescing of genres, forms, ideas. It also seems that amny students, I supposed unsurpringly, are keen to tackle big issues or big thematic play-fieldings, such as race, colonisation and gender discourse. 
+I was particularly impressed by the overall ingenuity of my classmates. They're all really commited to experimenting in this space. For those choosing more 'narrative routes' (many working with Twine), I'm slightly concerned about the scope of their projects——which I raised, along-side Ben, during class. It is nice, however, to see the coalescing of genres, forms, ideas. It also seems that amny students, I supposed unsurpringly, are keen to tackle big issues, such as race, colonisation and gender discourse.
+
+# Outline of develop processes
+
+
 
 ## Feedback on final project development
 
@@ -79,10 +83,38 @@ My only concern was whether the entry button could have more design to it, to ma
 Best, 
 Ruby'
 
+### Benjamin's Feedback (for pitch assessment but applied later)
+
+'Hi Tim, This is an excellent idea for a poem, and you’ve got a very clear idea of what you want to achieve. It sounds like it will be a powerful immersive work. You may also think about different versions of this, possibly something presented in a physical space such as a gallery. As you progress with the technical aspects, it might be helpful to sketch out/diagram how you expect the digital aspects to work and to prototype each element slowly. Be careful not to overwhelm yourself with too many technical jobs/skills. Getting the timing right may end up being a manual process. With something like howler.js, it might be easier to cut up the poem and sync each smaller section. Always look at a library that can assist you rather than coding from scratch. It is also fine to get technical help from people outside the course, or we can address any of your issues in class. Benjamin'
+
+In person, Benjamin also expressed some reservations about the audio overpowering the text; he stated however, this may be due to vantage point and scale and would offer further feedback at a later date. 
+
+### Other Feedback
+
+I showed my project to a few friends and colleauges and asked for general feedback. 
+
+#### general positive feedback: 
+- liked the syncing of audio and visual
+- found the poem lyrically satisfying
+- enjoyed the narrative base
+- felt the use of images enhanced the work
+- felt the poem was intuitive to read
+- felt it wasn't too concept dense
+- felt the work captured a very particular tone e.g. nostalgic australiana 
+- felt the poem was overall satisfying
+
+#### general critical feedback:
+- wondered whether the fade between images could be slowed
+- wondered if the entry button could be re-designed
+- wondered whether the poem should automatically refreshed
+- curious about length in terms of assignment 
+
 
 ## Response/reflection on final round of feedback
 
+Evidently, my major concerns at this point are about redesigning the entry button/point. I think I'll lower its opacity, perhaps round the edges and make it a bit larger, as well as potentially change the font. I'll also play around with the opacity/fade between the first images, as I'm not quite sure it's right yet. I want it to perfectly land in terms of timing between start of text, audio and imagery. 
 
-# Outline of processes
+Issues in terms of audio syncing have been resolved , as outlined above, which is grand. Again, I'd rally love to see the work in a gallery space, as it was designed for that. 
 
-## 
+In terms of re-freshing, I've canvased opinions and largely people seem to think that ending on the image is more conclusive rather than the refresh. I tend to agree, however, might play around and see what can be done (though I'm told technically this might be quite difficult). 
+
