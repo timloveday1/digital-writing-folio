@@ -3,7 +3,7 @@
 
 While my research presentation was centred on Cecil Richards, who predominantly produces work using Bitsy, I feel like I want to develop a major project that helps me to practice my coding skills. Richards' work, perhaps then, inspires me in terms of its dealings with a fraught sense of nostalgia for a childhood and innocence lost in a time of rapidly shifting socio-cultural and political worldviews. 
 
-Aesthically, I feel inspired by Tarako Gorge {https://nickm.com/taroko_gorge/}. Reflecting on the poem, I was reminded of natural and unatural systems, including railway lines, a perninent motif in much of my work. While aesthically adopting ideas from Tarako Gorge, I'm keen to make my work narrative based, like Richards' and non-generative. Instead, I think I'll centre mine on a auto-biographical poem which looks at a morning on the railway with my father. This will let me tackle the links between/trouble some big picture issues: 
+Aesthically, I feel inspired by [Tarako Gorge](https://nickm.com/taroko_gorge/). Reflecting on the poem, I was reminded of natural and unatural systems, including railway lines, a perninent motif in much of my work. While aesthically adopting ideas from Tarako Gorge, I'm keen to make my work narrative based, like Richards' and non-generative. Instead, I think I'll centre mine on a auto-biographical poem which looks at a morning on the railway with my father. This will let me tackle the links between/trouble some big picture issues: 
 
 - colonialisation and the minerals industry
 - domestic violence, sexism and lock-room culture
@@ -17,7 +17,7 @@ I already have a few works in mind that with some modification might be ideal fo
 
 ## Intial mock-up for presentation
 
-- {lines-mock-up} [
+- [lines-mock-up](
 
 # Critical feedback from workshopping
 
