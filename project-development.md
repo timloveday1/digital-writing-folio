@@ -17,7 +17,7 @@ I already have a few works in mind that with some modification might be ideal fo
 
 ## Intial mock-up for presentation
 
-- lines-mock-up.png
+- {lines-mock-up} [
 
 # Critical feedback from workshopping
 
