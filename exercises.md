@@ -109,8 +109,7 @@ The remix successfully transitions from mimicking the natural movement of the ri
 
 #### Overall Reflection 
 
-Stylistically and aesthetically 'Taroko Gorge' appeals to me and may serve as a major influence on my final work. I'm particularly inspired by  
-
+Stylistically and aesthetically 'Taroko Gorge' appeals to me and may serve as a major influence on my final project. I like the idea of 'unfurling', of text 'chugging up' the page at a steady space, expecting, largely, that the reader follows. I feel the code too may be able to be modified for the project I have in mind——one that mimicks railway tracks. I'm not, however, interested in the generative aspect of Tarako Gorge, as I believe I want to make a simple, yet engrossing narrative driven work with other digital aspects, such as visuals/photography. 
 
 
 ## Week 4
@@ -121,7 +120,7 @@ Stylistically and aesthetically 'Taroko Gorge' appeals to me and may serve as a 
 
 #### Reflection on making poem
 
-The poem I've created almost ceases to be a poem, in part due to the speed it's displayed. I went for a hideous aesthetic, which makes it feel more like tech art, or a hybrid. I feel this gave me a good basis for understanding and adpating code, and the design elements are becoming clearer to me. I do not feel, however, this form will influence my final work. 
+The poem I've created almost ceases to be a poem, in part due to the speed it's displayed. I went for a hideous aesthetic, which makes it feel more like tech art, or a hybrid. I feel this gave me a good basis for understanding and adpating code; similarly, design elements are becoming clearer to me. I do not feel, however, this form will influence my final work in any real sense, except, potentially, the 'unfurling' aspect. 
 
 ## Week 5
 
@@ -134,6 +133,10 @@ The poem I've created almost ceases to be a poem, in part due to the speed it's 
 ### Visual studio code 
 
 [Tim Loveday example website](https://timloveday1.github.io/)
+
+#### Reflection
+
+After using Visual Studio code, it's apparent that it's likely the best tool/place to develop my major project, as I'll be working directly with code. One of my fellow class mates also showed me a down-loadable automatic caste to a temporary site for the code, which I believe will be invaluable for real-time analysis of the work. 
 
 ## Week 6
 
@@ -164,6 +167,10 @@ The poem I've created almost ceases to be a poem, in part due to the speed it's 
 ### Audio example with howler.js
 [Howler JS example](https://chocolate-round-lift.glitch.me)
 
+#### Reflection
+
+While I've largely resolved audio issues for my project, these activities were helpful in inserting audio samples. Perhaps unsurpringly, the audio samples were sorted from the BBC archives, which was where I got most of my audio samples when producing the voice over component of my major project. I also felt quite overwhelmed by the multiple elements (audio sample, images and narrative) in my twine, but believe that in part due to the 'decision-making' component of twine; I hope, as my work isn't decision-based, this won't be a problem in my major prpoject. 
+
 
 ## Week 10
 
@@ -175,3 +182,7 @@ The poem I've created almost ceases to be a poem, in part due to the speed it's 
 
 ### Remix background image animation
 [Background animation CSS](https://coral-charmed-conifer.glitch.me/)
+
+#### Reflection
+
+Undoubtedly, working on (and learning) CSS animations in glitch is handing, as I've been using glitch as a tool to do mock-ups, or early iterations of code sometimes for my major project. Animating here has given me insight into how to 'fade' images in my major project—an issue I haven't yet tackled. In fact, the problem may very well be straight forward. Similarly, the exercises highlighted to me how multiple moving elements may overwhelm readers——an issue I'm still concerned about in my work. 
