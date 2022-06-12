@@ -17,7 +17,7 @@ I already have a few works in mind that with some modification might be ideal fo
 
 ## Intial mock-up for presentation
 
-- [lines-mock-up](
+- [lines-mock-up](https://github.com/timloveday1/digital-writing-folio/blob/main/lines-mock-up.png)
 
 # Critical feedback from workshopping
 
