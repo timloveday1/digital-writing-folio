@@ -16,10 +16,13 @@ I already have a few works in mind that with some modification might be ideal fo
 
 ## Initial project sketches
 
+![layout](./01_layout.jpg)
+
+
 
 ## Intial mock-up for presentation
 
-- [lines-mock-up](https://github.com/timloveday1/digital-writing-folio/blob/main/lines-mock-up.png)
+![lines-mock-up](https://github.com/timloveday1/digital-writing-folio/blob/main/lines-mock-up.png)
 
 # Critical feedback from workshopping
 
@@ -64,11 +67,20 @@ Many styalistic and conceptual ideas raised during pitches (as well as the earli
 
 I was particularly impressed by the overall ingenuity of my classmates. They're all really commited to experimenting in this space. For those choosing more 'narrative routes' (many working with Twine), I'm slightly concerned about the scope of their projects——which I raised, along-side Ben, during class. It is nice, however, to see the coalescing of genres, forms, ideas. It also seems that many students, unsurpringly, are keen to tackle big issues, such as race, colonisation and gender discourse.
 
-## Outline of develop processes
+## Notes of develop processes
+
+![development-notes](./03_development-notes.jpg)
+![04notes](./04_notes.jpg)
+![05notes](./05_notes.jpg)
+![06notes](./06_notes.jpg)
+![07notes](./07_notes.jpg)
+![08notes](./08_notes.jpg)
+![09notes](./09_notes.jpg)
+![10notes](./10_notes.jpg)
 
 ### mock-up of entry button
 
-(insert images/notes)
+![start-button](./02_start-button.jpg)
 
 ### notes on processes
 
