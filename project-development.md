@@ -14,11 +14,14 @@ Aesthically, I feel inspired by [Tarako Gorge](https://nickm.com/taroko_gorge/).
 
 I already have a few works in mind that with some modification might be ideal for this project, but only time will tell. I like the idea of creating something with a larger thematic thread, which is driven tonally either through visuals, audio or some minor interactive elements. I'm keen to incorporate a voice over as I'm interested in investing in spoken-word spaces. I also like the idea of incorporating music/sound effects and some photography.  
 
+## Initial project ideas
+
+![initial-1](./11_initial-notes.jpeg)
+![initial-2](./12_initial-notes.jpeg)
+
 ## Initial project sketches
 
 ![layout](./01_layout.jpg)
-
-
 
 ## Intial mock-up for presentation
 
