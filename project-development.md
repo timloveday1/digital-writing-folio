@@ -80,7 +80,7 @@ As advised by Benjamin's feedback, I now feel that a start button is necessary. 
 
 ## Development processes
 
-In discussing the project with Benjamin Laird, my tutor, he offered a base template for the work via [glitch](https://sedate-octagonal-grasshopper.glitch.me). This base templated was derived from his poem [Core Values](https://poetry.codetext.net/core-values/). I then used this work to develop my work, as the piece has the 'unfurling' quality I was after. 
+In discussing the project with Benjamin Laird, my tutor, he offered a base template for the work via glitch: https://sedate-octagonal-grasshopper.glitch.me. This base templated was derived from his poem [Core Values](https://poetry.codetext.net/core-values/). I then used this work to develop my work, as the piece has the 'unfurling' quality I was after. 
 
 Similarly, in relaying concerns regarding audio syncing, Benjamin suggested using audio sunc through howl.js: https://glitch.com/edit/#!/audio-example-with-howler
 
