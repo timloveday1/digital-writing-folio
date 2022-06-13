@@ -68,9 +68,23 @@ Lauren's work is refreshingly inventive; what a brilliant idea to subvert our ex
 
 Many styalistic and conceptual ideas raised during pitches (as well as the earlier practictioner presentations) made me think more broadly about digital literature, and what can be done. This seems, in so many ways, a space that can challenge language itself——and how we might create meaning on a fundamental level. When works are interactive yet narrative-based, who is the artist/writer? What differentiates art from poetry, and can a work be both installation and literature? 
 
-I was particularly impressed by the overall ingenuity of my classmates. They're all really commited to experimenting in this space. For those choosing more 'narrative routes' (many working with Twine), I'm slightly concerned about the scope of their projects——which I raised, along-side Ben, during class. It is nice, however, to see the coalescing of genres, forms, ideas. It also seems that many students, unsurpringly, are keen to tackle big issues, such as race, colonisation and gender discourse.
+I was impressed by the overall ingenuity of my classmates. They're all really commited to experimenting in this space. For those choosing more 'narrative routes' (many working with Twine), I'm slightly concerned about the scope of their projects——which I raised, along-side Ben, during class. It is nice, however, to see the coalescing of genres, forms, ideas. It also seems that many students, unsurpringly, are keen to tackle big issues, such as race, colonisation and gender discourse.
 
-## Notes of develop processes
+
+### new mock-up of entry button
+
+As advised by Benjamin's feedback, I now feel that a start button is necessary. Below is a quick mock-up or potential ideas:
+
+![start-button](./02_start-button.jpg)
+
+
+## Development processes
+
+In discussing the project with Benjamin Laird, my tutor, he offered a base template for the work via [glitch](https://sedate-octagonal-grasshopper.glitch.me). This base templated was derived from his poem [Core Values](https://poetry.codetext.net/core-values/). I then used this work to develop my work, as the piece has the 'unfurling' quality I was after. 
+
+Similarly, in relaying concerns regarding audio syncing, Benjamin suggested using audio sunc through howl.js: https://glitch.com/edit/#!/audio-example-with-howler
+
+### Rough notes on processes
 
 ![development-notes](./03_development-notes.jpg)
 ![04notes](./04_notes.jpg)
@@ -81,16 +95,19 @@ I was particularly impressed by the overall ingenuity of my classmates. They're 
 ![09notes](./09_notes.jpg)
 ![10notes](./10_notes.jpg)
 
-### mock-up of entry button
-
-![start-button](./02_start-button.jpg)
-
-### notes on processes
-
-#### Reflection on challenges
+### Developing the audio
 
 
 
+#### Reflection on major challenges
+
+##### Syncing the timing
+
+Initially my plan was to use a timer function on howler.js to sync the audo, visual and text components. Over the course of the project however, and while experimenting with time tagged text, I became concerned that a tagged time function may make the text 'appear' jagged, disorientating the reader in the presentation of the poem. By experimenting with line spacing instead of time tagging, I resolved this issue. While the text and audio are not perfectly synced, they are close enough to appear aligned; this was fortunate, and likely related to the rythmns in which I read the poem (indicated, somewhat, already by the line-breaks and stanza spacing). This process, too, while time intensive (having to listen to the poem hundreds of times to insert line breaks) may have saved some time overall. 
+
+##### Poem content
+
+Weeks into development, I realised that part of the poem I planned to use had already been submitted for an earlier assignment, which meant i was unable to include this poem in full. Fortunately, as the original poem 'at the end of the rail' explores reoccuring themes throughout my work, I managed to find another poem that conceptually and stylistically aligned to where my project already was. This required, however, a format conversation and singificant text and shape changes to meet the existing layout. 
 
 ## Feedback on final project development
 
@@ -142,5 +159,9 @@ Evidently, my major concerns at this point are about redesigning the entry butto
 
 Issues in terms of audio syncing have been resolved , as outlined above, which is grand. Again, I'd rally love to see the work in a gallery space, as it was designed for that. 
 
-In terms of re-freshing, I've canvased opinions and largely people seem to think that ending on the image is more conclusive rather than the refresh. I tend to agree, however, might play around and see what can be done (though I'm told technically this might be quite difficult). 
+In terms of re-freshing, I've canvased opinions and largely people seem to think that ending on the image is more conclusive rather than the refresh. I tend to agree, however, might play around and see what can be done (though I'm told technically this might be quite difficult).
+
+## Final changes/towards submission
+
+
 
