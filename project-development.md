@@ -127,7 +127,7 @@ Weeks into development, I realised that part of the poem I planned to use had al
 
 #### Programming the page transition/start button/audio start 
 
-I had some trouble animating the transition between the holding page and poem page. For most of my coding problems, I sought advice from mdn. In this case, I sourced this code: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList. Effectively, I added a class to HTML and added a CSS body class to the HTML tag. I set an animation up in this CSS class that fades the button/land-page out when activated. Likewise, the audio is also triggered when the start button is activated, with a specific time delay function.  
+I had some trouble animating the transition between the holding page and poem page. I had set up a CSS animation that would play on a CSS class but struggled to find how to add a class when the button event fired. For most of my cording problems I googled what I was trying to achieve and then used MDN to gain a bit more insight into what was suggested. In this case, a forum suggested I use a classList in Javascript to add a class, so I sourced an example on the classList MDN PAGE: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList. Effectively, I added a class to the <body> HTML tag in the function that was fired from clicking the button. The animation I set up using CSS would fade the landing page out over time, so when the class was applied to a HTML tag it would fade that tag out. Likewise, the audio is also triggered when the start button is activated, with a specific time delay function that I found on MDN.  
 
 ## Feedback on final project development
 
