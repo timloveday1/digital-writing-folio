@@ -24,7 +24,7 @@ I already have a few works in mind that with some modification might be ideal fo
 ![initial-1](./11_initial-notes.jpeg)
 ![initial-2](./12_initial-notes.jpeg)
 
-## Intial mock-up for presentation
+## Intial mock-up for presentation (made on Canva)
 
 ![lines-mock-up](https://github.com/timloveday1/digital-writing-folio/blob/main/lines-mock-up.png)
 
@@ -32,12 +32,12 @@ I already have a few works in mind that with some modification might be ideal fo
 
 Ben raised some concerns about the scope of my project. Questions include: 
 - are there too many moving parts? 
-- is the work, in all, too technically complex to complete within the deadline?
-- Am I biting off more than I can chew? 
+- is the work too technically complex to complete within the deadline?
+- am I biting off more than I can chew? 
 - is the work aesthetically overwhelming for the reader? ie. with fading images as well as synced audio and text, will the reader be able to follow the movement of the piece? 
 - how difficult will it be to sync text with audio with images? is this technically too adventurous? 
 
-Ben also suggested adding an 'entry button' so that the poem doesn't begind automatically (potentially difficult coding-wise). He also said that he felt this project might work in gallery spaces——which is exciting, and something I hadn't totally considered.  
+Ben also suggested adding an 'entry button' so that the poem doesn't begin automatically (potentially difficult coding-wise). He also said that he felt this project might work in a gallery space——which is exciting, and something I hadn't considered.  
 
 Charles asked where I planned to source materials, such as soundbites/effects/music and images, as well as some source coding. 
 Other students wondered whether I'd have time to complete a project of this magnitude. 
@@ -98,11 +98,11 @@ Similarly, in relaying concerns regarding audio syncing, Benjamin suggested usin
 
 ### Developing the audio
 
-In order to make the audio component (voice over & backing track & sound effects) I used the digital audio application (Reaper)[https://www.reaper.fm/] which is free and intuitive, as opposed to similar programs. I used my friend's small home studio, which is equiped with a  to record with a Rode procaster, a condenser microphone; these mics are designed to pick up voice only (or the closest noise), cancelling out background noise. Having practiced the poem several times, I was able to get a single, consistent vocal recording without the need to cut new vocals in etc. The vocals then only required a light edit, mostly elminating out background noise (paper shuffling etc.).
+In order to make the audio component (voice over & backing track & sound effects) I used the digital audio application [Reaper](https://www.reaper.fm/) which is free and intuitive, as opposed to similar programs. I used my friend's small home studio, which is equiped with a  to record with a Rode procaster, a condenser microphone; these mics are designed to pick up voice only (or the closest noise), cancelling out background noise. Having practiced the poem several times, I was able to get a single, consistent vocal recording without the need to cut new vocals in etc. The vocals then only required a light edit, mostly elminating out background noise (paper shuffling etc.).
 
-I then sourced the backing-track/music online at.        I felt some musical accompanyment was the best option as the poem is considerably long, and I was worried that viewers/readers might lose interest. I specifically wanted music that enhanced the vocal without overpowering them; I wanted music that would give the piece a sense of scale and atmosphere, and tonally align with the work. Sourcing the right track took considerable time as I wanted it to be outside copyright (so I can later exhibit the work) but also to be relatively neutral. A lot of free music is designed with film in mind so is overtly dramatic, using minor and major cords; tonally, neither happy nor sad would work for my piece. I eventually settled on a guitar/drum track that harks back to 90s working class steel rock. I then edited the music to meet the cadences and rythmns of the vocals, lowering the music at parts to enhance what is being said. I also enhanced/edited the drum beat at times to give particular phrases/sections gravity. 
+I then sourced the backing-track/music, originally titled 'Dark Texture' by Mr Smith, online at [free music archive] (https://freemusicarchive.org/genre/Sound_Effects/). I felt some musical accompanyment was the best option as the poem is considerably long, and I was worried that viewers/readers might lose interest. I specifically wanted music that enhanced the vocal without overpowering them; I wanted music that would give the piece a sense of scale and atmosphere, and tonally align with the work. Sourcing the right track took considerable time as I wanted it to be outside copyright (so I can later exhibit the work) but also to be relatively neutral. A lot of free music is designed with film in mind so is overtly dramatic, using minor and major cords; tonally, neither happy nor sad would work for my piece. I eventually settled on a guitar/drum track that harks back to 90s working class steel rock. I then edited the music to meet the cadences and rythmns of the vocals, lowering the music at parts to enhance what is being said. I also enhanced/edited the drum beat at times to give particular phrases/sections gravity. 
 
-Simiarly, I then sourced sound effects from the BBC sound archives. I played around with these effects and their placement considering how they might aesthically and tonally enhace the work, or detract from it. I was concerned, at times, that particular sound effects might make the work corny, so ended up settling on a relatively minimalist approach. I changed sound settings throughout concious of where I thought the listener/viewer might start to lose interest in the piece. 
+Simiarly, I then sourced sound effects from the [BBC sound archives](https://sound-effects.bbcrewind.co.uk/). I played around with these effects and their placement considering how they might aesthically and tonally enhace the work, or detract from it. I was concerned, at times, that particular sound effects might make the work corny, so ended up settling on a relatively minimalist approach. I changed sound settings throughout concious of where I thought the listener/viewer might start to lose interest in the piece. 
 
 #### Reflections on audio development
 
@@ -127,7 +127,7 @@ Weeks into development, I realised that part of the poem I planned to use had al
 
 #### Programming the page transition/start button/audio start 
 
-I had some trouble animating the transition between the holding page and poem page. I had set up a CSS animation that would play on a CSS class but struggled to find how to add a class when the button event fired. For most of my cording problems I googled what I was trying to achieve and then used MDN to gain a bit more insight into what was suggested. In this case, a forum suggested I use a classList in Javascript to add a class, so I sourced an example on the classList MDN PAGE: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList. Effectively, I added a class to the <body> HTML tag in the function that was fired from clicking the button. The animation I set up using CSS would fade the landing page out over time, so when the class was applied to a HTML tag it would fade that tag out. Likewise, the audio is also triggered when the start button is activated, with a specific time delay function that I found on MDN.  
+I had some trouble animating the transition between the holding page and poem page. I had set up a CSS animation that would play on a CSS class but struggled to find how to add a class when the button event fired. For most of my cording problems I googled what I was trying to achieve and then used MDN to gain a bit more insight into what was suggested. In this case, a forum suggested I use a classList in Javascript to add a class, so I sourced an example on the classList MDN page: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList. Effectively, I added a class to the <body> HTML tag in the function that was fired from clicking the button. The animation I set up using CSS would fade the landing page out over time, so when the class was applied to a HTML tag it would fade that tag out. Likewise, the audio is also triggered when the start button is activated, with a specific time delay function that I found on MDN.  
 
 ## Feedback on final project development
 
@@ -177,9 +177,9 @@ I showed my project to a few friends and colleauges and asked for general feedba
 
 Evidently, my major concerns at this point are about redesigning the entry button/point. I think I'll lower its opacity, perhaps round the edges and make it a bit larger, as well as potentially change the font. I'll also play around with the opacity/fade between the first images, as I'm not quite sure it's right yet. I want it to perfectly land in terms of timing between start of text, audio and imagery. 
 
-Issues in terms of audio syncing have been resolved , as outlined above, which is grand. Again, I'd rally love to see the work in a gallery space, as it was designed for that. 
+Issues in terms of audio syncing have been resolved, as outlined above, which is grand. Again, I'd really love to see the work in a gallery space, as it was designed for that. 
 
-In terms of re-freshing, I've canvased opinions and largely people seem to think that ending on the image is more conclusive rather than the refresh. I tend to agree, however, might play around and see what can be done (though I'm told technically this might be quite difficult).
+In terms of re-freshing, I've canvased opinions and largely people seem to think that ending on the image is more conclusive rather than the refresh. I tend to agree; however, I might play around and see what can be done (though I'm told technically this might be quite difficult).
 
 ## Final changes/towards submission
 
