@@ -5,7 +5,7 @@
 
 While my research presentation was centred on Cecil Richards, who predominantly produces work using Bitsy, I feel like I want to develop a major project that helps me to practice my coding skills. Richards' work, perhaps then, inspires me in terms of its dealings with a fraught sense of nostalgia for a childhood and innocence lost in a time of rapidly shifting socio-cultural and political worldviews. 
 
-Aesthically, I feel inspired by [Tarako Gorge](https://nickm.com/taroko_gorge/). Reflecting on the poem, I was reminded of natural and unatural systems, including railway lines, a perninent motif in much of my work. While aesthically adopting ideas from Tarako Gorge, I'm keen to make my work narrative based, like Richards' and non-generative. Instead, I think I'll centre mine on a auto-biographical poem which looks at a morning on the railway with my father. This will let me tackle the links between/trouble some big picture issues: 
+Aesthetically, I feel inspired by [Tarako Gorge](https://nickm.com/taroko_gorge/). Reflecting on the poem, I was reminded of natural and unatural systems, including railway lines, a perninent motif in much of my work. While aesthetically adopting ideas from Tarako Gorge, I'm keen to make my work narrative based and non-generative, like Richards'. Instead, I think I'll centre mine on a auto-biographical poem which looks at a morning on the railway with my father. This will let me tackle the links between/trouble some big picture issues: 
 
 - colonialisation and the minerals industry
 - domestic violence, sexism and lock-room culture
@@ -48,9 +48,9 @@ Other students wondered whether I'd have time to complete a project of this magn
 Overall, the class seemed impressed with the complexity of my project, as well as its current stage of development. 
 I believe, in terms of skill development and materials acquisition, I should be okay, but need to remain vigilant during project development, potentially scaling back if necessary. As Ben outlined, syncing text with audio will likely be time intensive, as I may have to do this line by line. He did, kindly, however, put me onto howler.js
 
-In terms of whether the work will be 'too overwhelming' or 'distracting' (because of the multiple moving parts), only time will tell I suppose. As I develop 'mock-ups' I think it's important to keep this in mind, and to, again, scale back if necessary (will a place-holding image do? Is this more powerful?)
+In terms of whether the work will be 'too overwhelming' or 'distracting' (because of the multiple moving parts), only time will tell I suppose. As I develop 'mock-ups' I think it's important to keep this in mind, and to, again, scale back if necessary (will a place-holder image do? Is this more powerful?)
 
-I'm excited by the prospect of developing the work with a future gallery space in mind. With all the incporated media elements, as well as the 'big-picture' aesthetic, I think it could really work, driving my inspiration for the project.  
+I'm excited by the prospect of developing the work with a future gallery space in mind. With all the incporated media elements, as well as the 'big-picture' aesthetic, I think this could really work.   
 
 
 ## Offering feedback to pitches
@@ -67,7 +67,7 @@ Lauren's work is refreshingly inventive; what a brilliant idea to subvert our ex
 
 #### Overall reflection
 
-Many styalistic and conceptual ideas raised during pitches (as well as the earlier practictioner presentations) made me think more broadly about digital literature, and what can be done. This seems, in so many ways, a space that can challenge language itself——and how we might create meaning on a fundamental level. When works are interactive yet narrative-based, who is the artist/writer? What differentiates art from poetry, and can a work be both installation and literature? 
+Many stylistic and conceptual ideas raised during pitches (as well as the earlier practictioner presentations) made me think more broadly about digital literature, and what can be done. This seems, in so many ways, a space that can challenge language itself——and how we might create meaning on a fundamental level. When works are interactive yet narrative-based, who is the artist/writer? What differentiates art from poetry, and can a work be both installation and literature? 
 
 I was impressed by the overall ingenuity of my classmates. They're all really commited to experimenting in this space. For those choosing more 'narrative routes' (many working with Twine), I'm slightly concerned about the scope of their projects——which I raised, along-side Ben, during class. It is nice, however, to see the coalescing of genres, forms, ideas. It also seems that many students, unsurpringly, are keen to tackle big issues, such as race, colonisation and gender discourse.
 
