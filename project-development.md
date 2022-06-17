@@ -98,17 +98,36 @@ Similarly, in relaying concerns regarding audio syncing, Benjamin suggested usin
 
 ### Developing the audio
 
+In order to make the audio component (voice over & backing track & sound effects) I used the digital audio application (Reaper)[https://www.reaper.fm/] which is free and intuitive, as opposed to similar programs. I used my friend's small home studio, which is equiped with a  to record with a Rode procaster, a condenser microphone; these mics are designed to pick up voice only (or the closest noise), cancelling out background noise. Having practiced the poem several times, I was able to get a single, consistent vocal recording without the need to cut new vocals in etc. The vocals then only required a light edit, mostly elminating out background noise (paper shuffling etc.).
+
+I then sourced the backing-track/music online at.        I felt some musical accompanyment was the best option as the poem is considerably long, and I was worried that viewers/readers might lose interest. I specifically wanted music that enhanced the vocal without overpowering them; I wanted music that would give the piece a sense of scale and atmosphere, and tonally align with the work. Sourcing the right track took considerable time as I wanted it to be outside copyright (so I can later exhibit the work) but also to be relatively neutral. A lot of free music is designed with film in mind so is overtly dramatic, using minor and major cords; tonally, neither happy nor sad would work for my piece. I eventually settled on a guitar/drum track that harks back to 90s working class steel rock. I then edited the music to meet the cadences and rythmns of the vocals, lowering the music at parts to enhance what is being said. I also enhanced/edited the drum beat at times to give particular phrases/sections gravity. 
+
+Simiarly, I then sourced sound effects from the BBC sound archives. I played around with these effects and their placement considering how they might aesthically and tonally enhace the work, or detract from it. I was concerned, at times, that particular sound effects might make the work corny, so ended up settling on a relatively minimalist approach. I changed sound settings throughout concious of where I thought the listener/viewer might start to lose interest in the piece. 
+
+#### Reflections on audio development
+
+I'm forunate that I had access to good recording equipment, as dodgy equipment would have made the process considerably more difficult. Initially i planned to use garage band to develop the audio but on my friend's advice, I settled on Reaper; in hindsight this was wise as Reaper is quite intuitive and very easy to use. I'm keen to hear people's feedback on the audio itself, as I feel it really enhances the work; I am, slightly worried, however, that there's a lot going on on-screen. 
+
+### Reflections on images during development
+
+I decided during development not to include multiple 'fading' background images. As other students have raised, this could be quite distracting and actually detract from the overall work. It may have also raised readability issues. Inserting the audio, as well, made me think more specifically about this issue. In drafting/programming stages, I realised a stactic background image was effective anyway. I felt, however, a fade at the start of the poem (before the audio begins) paid homage to this initial idea and created early audience interest. 
+
+Similarly, during production, I realised having 'fading' or 'holographic' text that responded to the cursor would have overwhelmed the reader/viewer, so I ended up abandoning this idea for text that simply 'unfurled' upwards. 
 
 
 #### Reflection on major challenges
 
 ##### Syncing the timing
 
-Initially my plan was to use a timer function on howler.js to sync the audo, visual and text components. Over the course of the project however, and while experimenting with time tagged text, I became concerned that a tagged time function may make the text 'appear' jagged, disorientating the reader in the presentation of the poem. By experimenting with line spacing instead of time tagging, I resolved this issue. While the text and audio are not perfectly synced, they are close enough to appear aligned; this was fortunate, and likely related to the rythmns in which I read the poem (indicated, somewhat, already by the line-breaks and stanza spacing). This process, too, while time intensive (having to listen to the poem hundreds of times to insert line breaks) may have saved some time overall. 
+Initially my plan was to use a timer function on howler.js to sync the audo, visual and text components. Over the course of the project however, and while experimenting with time-tagged text, I became concerned that a tagged time function may make the text 'appear' jagged, disorientating the reader in the presentation of the poem. By experimenting with line spacing instead of time tagging (an idea that came to me while inserting stanza breaks), I resolved this issue. While the text and audio are not perfectly synced, they are close enough to appear aligned; this was fortunate, and likely related to the rythmns in which I read the poem (indicated, somewhat, already by the line-breaks and stanza spacing). This process, too, while time intensive (having to listen to the poem hundreds of times to insert line breaks appropriately) may have saved me some time overall. 
 
 ##### Poem content
 
 Weeks into development, I realised that part of the poem I planned to use had already been submitted for an earlier assignment, which meant i was unable to include this poem in full. Fortunately, as the original poem 'at the end of the rail' explores reoccuring themes throughout my work, I managed to find another poem that conceptually and stylistically aligned to where my project already was. This required, however, a format conversation and singificant text and shape changes to meet the existing layout. 
+
+#### Programming the page transition/start button/audio start 
+
+I had some trouble animating the transition between the holding page and poem page. For most of my coding problems, I sought advice from mdn. In this case, I sourced this code: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList. Effectively, I added a class to HTML and added a CSS body class to the HTML tag. I set an animation up in this CSS class that fades the button/land-page out when activated. Likewise, the audio is also triggered when the start button is activated, with a specific time delay function.  
 
 ## Feedback on final project development
 
