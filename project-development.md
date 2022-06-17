@@ -115,13 +115,13 @@ I decided during development not to include multiple 'fading' background images.
 Similarly, during production, I realised having 'fading' or 'holographic' text that responded to the cursor would have overwhelmed the reader/viewer, so I ended up abandoning this idea for text that simply 'unfurled' upwards. 
 
 
-#### Reflection on major challenges
+### Reflection on major challenges
 
-##### Syncing the timing
+#### Syncing the timing
 
 Initially my plan was to use a timer function on howler.js to sync the audo, visual and text components. Over the course of the project however, and while experimenting with time-tagged text, I became concerned that a tagged time function may make the text 'appear' jagged, disorientating the reader in the presentation of the poem. By experimenting with line spacing instead of time tagging (an idea that came to me while inserting stanza breaks), I resolved this issue. While the text and audio are not perfectly synced, they are close enough to appear aligned; this was fortunate, and likely related to the rythmns in which I read the poem (indicated, somewhat, already by the line-breaks and stanza spacing). This process, too, while time intensive (having to listen to the poem hundreds of times to insert line breaks appropriately) may have saved me some time overall. 
 
-##### Poem content
+#### Poem content
 
 Weeks into development, I realised that part of the poem I planned to use had already been submitted for an earlier assignment, which meant i was unable to include this poem in full. Fortunately, as the original poem 'at the end of the rail' explores reoccuring themes throughout my work, I managed to find another poem that conceptually and stylistically aligned to where my project already was. This required, however, a format conversation and singificant text and shape changes to meet the existing layout. 
 
